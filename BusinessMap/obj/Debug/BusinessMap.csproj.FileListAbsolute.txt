@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\bin\Debug\BusinessMap.exe.config
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\bin\Debug\BusinessMap.exe
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\bin\Debug\BusinessMap.pdb
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.AddBusiness.resources
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.Main.resources
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.Properties.Resources.resources
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.exe
+C:\Users\user\source\repos\BusinessMap v0.2\BusinessMap\obj\Debug\BusinessMap.pdb
